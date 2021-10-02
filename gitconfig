@@ -49,3 +49,6 @@
 
 [pull]
   rebase = false
+[user]
+	email = christian@jaroljmek.com
+	name = Christian Jaroljmek
